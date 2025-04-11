@@ -1,0 +1,11 @@
+C:\Users\Halit\Desktop\Kurslar\C#\Tanımlar\MiniMuhasebe\MiniMuhasebe\bin\Debug\MiniMuhasebe.exe.config
+C:\Users\Halit\Desktop\Kurslar\C#\Tanımlar\MiniMuhasebe\MiniMuhasebe\bin\Debug\MiniMuhasebe.exe
+C:\Users\Halit\Desktop\Kurslar\C#\Tanımlar\MiniMuhasebe\MiniMuhasebe\bin\Debug\MiniMuhasebe.pdb
+C:\Users\Halit\Desktop\Kurslar\C#\Tanımlar\MiniMuhasebe\MiniMuhasebe\obj\Debug\MiniMuhasebe.csproj.AssemblyReference.cache
+C:\Users\Halit\Desktop\Kurslar\C#\Tanımlar\MiniMuhasebe\MiniMuhasebe\obj\Debug\MiniMuhasebe.Form1.resources
+C:\Users\Halit\Desktop\Kurslar\C#\Tanımlar\MiniMuhasebe\MiniMuhasebe\obj\Debug\MiniMuhasebe.Properties.Resources.resources
+C:\Users\Halit\Desktop\Kurslar\C#\Tanımlar\MiniMuhasebe\MiniMuhasebe\obj\Debug\MiniMuhasebe.csproj.GenerateResource.cache
+C:\Users\Halit\Desktop\Kurslar\C#\Tanımlar\MiniMuhasebe\MiniMuhasebe\obj\Debug\MiniMuhasebe.csproj.CoreCompileInputs.cache
+C:\Users\Halit\Desktop\Kurslar\C#\Tanımlar\MiniMuhasebe\MiniMuhasebe\obj\Debug\MiniMuhasebe.exe
+C:\Users\Halit\Desktop\Kurslar\C#\Tanımlar\MiniMuhasebe\MiniMuhasebe\obj\Debug\MiniMuhasebe.pdb
+C:\Users\Halit\Desktop\Kurslar\C#\Tanımlar\MiniMuhasebe\MiniMuhasebe\obj\Debug\MiniMuhasebe.Rapor.resources
